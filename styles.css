@@ -1,3 +1,5 @@
+/* styles.css */
+
 body {
     color: white; /* background-color, color, border-color */
 }
@@ -15,5 +17,17 @@ body {
 .btn-primary:hover {
     background-color:  #3EB7C2;
     color: black;
-  }
+}
   
+.footer {
+    background-color: #3EB7C2;
+}
+
+.hero-background-img {
+    background-image: url("/photos/prayHero.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top:200px;
+    padding-bottom:200px;
+  }
