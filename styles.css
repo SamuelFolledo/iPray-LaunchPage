@@ -1,0 +1,19 @@
+body {
+    color: white; /* background-color, color, border-color */
+}
+
+.navbar {
+    padding: 1rem;
+    background-color:  #3EB7C2;
+}
+
+.navbar {
+    padding: 1rem;
+    background-color:  #3EB7C2;
+}
+
+.btn-primary:hover {
+    background-color:  #3EB7C2;
+    color: black;
+  }
+  

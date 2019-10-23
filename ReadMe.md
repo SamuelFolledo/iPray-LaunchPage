@@ -20,11 +20,14 @@ iPray is a guided prayer iOS app that will help user with their prayer by tracki
 - ```mb-0``` - __Utility Class__ to remove the margin from the bottom of the jumbotron class and sit flush with the next one
 - ```p-5``` - gives the element a large amount of padding on all sides
 - ```&copy``` - HTML's way of writing the copyright symbol: ©
-
-
+- Bootsrap link in head tag
+    ```
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/\bootstrap.min.css">
+    <link rel="stylesheet" href="https://bootswatch.com/4/cyborg/bootstrap.min.css">
+    ```
 
 ### [PAGE 3. Customizing Your Page](https://www.makeschool.com/academy/track/standalone/tutorial-template-title-max-56-characters-9k4/customizing-your-page)
-
+- [__Bootsrap Theme__](https://bootswatch.com/) - themes that can add uniqueness to your website which you can either download ```.min.css``` file and add to your project or use url to link it in your head 
 
 ### [PAGE 4. Images And Videos](https://www.makeschool.com/academy/track/standalone/tutorial-template-title-max-56-characters-9k4/images-and-videos)
 
