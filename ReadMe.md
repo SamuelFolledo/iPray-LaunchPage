@@ -1,4 +1,4 @@
-# Launch Page for [iPray](https://github.com/SamuelFolledo/iPray)
+# [Launch Page]() for my [iPray iOS App](https://github.com/SamuelFolledo/iPray)
 iPray is a guided prayer iOS app that will help user with their prayer by tracking the time you spent praying and log your prayer requests
 
 ## Tools used
@@ -38,6 +38,7 @@ iPray is a guided prayer iOS app that will help user with their prayer by tracki
 - ```z-index: -1;``` - puts the image on the back of the jumbotron
 
 ### [PAGE 5. Going Live](https://www.makeschool.com/academy/track/standalone/tutorial-template-title-max-56-characters-9k4/going-live)
+- Can easily make your website live by going to your repo's settings -> scroll down to GitHub Pages -> Selecting the source
 
 
 ## Important Links
