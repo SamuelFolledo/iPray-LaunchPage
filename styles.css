@@ -44,3 +44,7 @@ body {
     z-index: -1; /*puts the image on the back*/
     opacity: 0.5; /* Tone the image down further by giving it transparency */
 }
+
+.footer {
+    background-color: #3EB7C2;
+}
