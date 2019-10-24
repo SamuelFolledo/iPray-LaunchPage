@@ -41,6 +41,17 @@ iPray is a guided prayer iOS app that will help user with their prayer by tracki
 - Can easily make your website live by going to your repo's settings -> scroll down to GitHub Pages -> Selecting the source
 
 
+## Screenshots
+### Navigation Bar and Jumbotron
+![Navigation Bar and Jumbotron](/photos/screenshots/navBarAndJumbotron.png)
+---
+### Helper and YouTube Video
+![Helper and YouTube Video](/photos/screenshots/helperAndVideo.png)
+---
+### Call to Action and Footer
+![Call to Action and Footer](/photos/screenshots/callToActionAndFooter.png)
+---
+
 ## Important Links
-- [Make A Launch Page](https://www.makeschool.com/academy/track/tutorial-template-title-max-56-characters-9k4) Tutorial from Make School
+- [Make A Launch Page Tutorial](https://www.makeschool.com/academy/track/tutorial-template-title-max-56-characters-9k4) Tutorial from Make School
 - [Boostrap 4 Documentation](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
