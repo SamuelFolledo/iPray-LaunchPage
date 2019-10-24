@@ -31,9 +31,11 @@ iPray is a guided prayer iOS app that will help user with their prayer by tracki
 
 ### [PAGE 4. Images And Videos](https://www.makeschool.com/academy/track/standalone/tutorial-template-title-max-56-characters-9k4/images-and-videos)
 - [Unsplash](https://unsplash.com/) - great place to find some free photographs
-- ```:after``` - pseudoclass for adding a background shadow to the image
 - ```background: rgba(0, 0, 0, 0.3);``` - If our image is bright, we can tone it down with this darker overlay
+- ```.hero-background-img:after``` - pseudoclass for adding a background shadow to the image
 - ```opacity: 0.5;``` - Tone the image down further by giving it transparency
+- ```background-image: url("./photos/iPray.jpeg"); ``` - example of putting an image locally
+- ```z-index: -1;``` - puts the image on the back of the jumbotron
 
 ### [PAGE 5. Going Live](https://www.makeschool.com/academy/track/standalone/tutorial-template-title-max-56-characters-9k4/going-live)
 
