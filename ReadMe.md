@@ -1,4 +1,4 @@
-# [Launch Page]() for my [iPray iOS App](https://github.com/SamuelFolledo/iPray)
+# [Launch Page](https://samuelfolledo.github.io/iPray-LaunchPage/) for my [iPray iOS App](https://github.com/SamuelFolledo/iPray)
 iPray is a guided prayer iOS app that will help user with their prayer by tracking the time you spent praying and log your prayer requests
 
 ## Tools used
